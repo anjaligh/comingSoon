@@ -255,8 +255,8 @@ Primary use:
 
 /*---------------------------------------------*/
 .bg-g1 {
-  background-image: url('/images/9832791.jpg');
-  background-size: contain;
+  background-color: #050505;
+  /* background-size: contain; */
   
   
   /* background: -webkit-linear-gradient(bottom, #f77062, #fe5196);
