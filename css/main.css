@@ -256,7 +256,7 @@ Primary use:
 /*---------------------------------------------*/
 .bg-g1 {
   background-image: url('/images/bgimg.png');
-  background-size:100% 100%;
+  background-size: contain;
   
   
   /* background: -webkit-linear-gradient(bottom, #f77062, #fe5196);
